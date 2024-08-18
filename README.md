@@ -6,8 +6,8 @@
   <img src="https://github-readme-stats.vercel.app/api/?username=duanleedom&show_icons=true&title_color=080000&icon_color=080000&text_color=ff3b58&bg_color=f2eabc" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=duanleedom&=dark&count_private=true&bg_color=f2eabc&title_color=080000&text_color=ff3b58&icon_color=080000" alt="GitHub Streak" />
   <p align="Left">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXd6eGZidHY4d3E0OHQxajR3ZGtqOTNyYnE4Y2hhMndsZzJxajJneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XHAv3GveJMXMXSumkO/giphy.gif" width="200" height="250"/>
-</p>
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXd6eGZidHY4d3E0OHQxajR3ZGtqOTNyYnE4Y2hhMndsZzJxajJneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XHAv3GveJMXMXSumkO/giphy.gif" width="200" height="250"/>
+  </p>
 </p>
 
 <p align="center">
