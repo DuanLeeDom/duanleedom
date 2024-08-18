@@ -9,7 +9,7 @@
   </p>
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lazarus/lazarus.svg" alt="Pascal" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pascal/pascal-original.svg" alt="Pascal" width="50" height="50"/>
     &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
     &nbsp;
