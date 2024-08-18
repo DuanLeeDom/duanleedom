@@ -1,17 +1,15 @@
 ## Hi there 👋
 
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/?username=duanleedom&show_icons=true&title_color=080000&icon_color=080000&text_color=ff3b58&bg_color=f2eabc" alt="GitHub Stats" />
-      <br />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=duanleedom&=dark&count_private=true&bg_color=f2eabc&title_color=080000&text_color=ff3b58&icon_color=080000" alt="GitHub Streak" />
-    </td>
-    <td>
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXd6eGZidHY4d3E0OHQxajR3ZGtqOTNyYnE4Y2hhMndsZzJxajJneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XHAv3GveJMXMXSumkO/giphy.gif" width="200" height="250"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/?username=duanleedom&show_icons=true&title_color=080000&icon_color=080000&text_color=ff3b58&bg_color=f2eabc" alt="GitHub Stats" />
+    <br />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=duanleedom&=dark&count_private=true&bg_color=f2eabc&title_color=080000&text_color=ff3b58&icon_color=080000" alt="GitHub Streak" />
+  </div>
+  <div>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXd6eGZidHY4d3E0OHQxajR3ZGtqOTNyYnE4Y2hhMndsZzJxajJneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XHAv3GveJMXMXSumkO/giphy.gif" width="200" height="250" style="margin-left: 20px;" />
+  </div>
+</div>
 
 
 
