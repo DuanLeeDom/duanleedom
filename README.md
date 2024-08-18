@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=duanleedom\&show_icons=true\&title_color=080000\&icon_color=080000\&text_color=ff3b58\&bg_color=f2eabc)
+
+
+
+
+<iframe src="https://giphy.com/embed/XHAv3GveJMXMXSumkO" width="436" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/glitch-computer-pc-XHAv3GveJMXMXSumkO">via GIPHY</a></p> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=duanleedom\&show_icons=true\&title_color=080000\&icon_color=080000\&text_color=ff3b58\&bg_color=f2eabc)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duanleedom&=dark&count_private=true&bg_color=f2eabc&title_color=080000&text_color=ff3b58&icon_color=080000)
 
