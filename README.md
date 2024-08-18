@@ -13,3 +13,5 @@
   <a href="https://www.linkedin.com/in/duan-lee-dom-a49a07294" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?duanleedom=anuraghazra&hide_progress=true)
