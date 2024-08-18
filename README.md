@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<table>
+<table border="0">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/?username=duanleedom&show_icons=true&title_color=080000&icon_color=080000&text_color=ff3b58&bg_color=f2eabc" alt="GitHub Stats" />
