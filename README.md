@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=duanleedom\&show_icons=true\&title_color=0d1116\&icon_color=fff\&text_color=f2eabc\&bg_color=151515)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=duanleedom\&show_icons=true\&title_color=#f2eabc\&icon_color=fff\&text_color=#f2eabc\&bg_color=#f2eabc)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duanleedom&=dark&count_private=true&bg_color=0d1116&title_color=#fff&text_color=f2eabc&icon_color=007ec6)
 
