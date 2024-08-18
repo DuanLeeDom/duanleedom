@@ -14,4 +14,4 @@
   
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?duanleedom=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duanleedom_progress=true)
