@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="Center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="200" height="200" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50" />
 </p>
           
 <p align="Center">
