@@ -1,15 +1,15 @@
 ## Hi there 👋
 
-<div style="background: url('https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzU0OW1xY3M4dGdidDJrY3ZranAzNHEwZ2Q4M2FyY3Y2MXV2c3FnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sWFYgYFjHGugleQdO7/giphy.gif') no-repeat center center fixed; background-size: cover; padding: 20px; border-radius: 10px;">
+<div style="background: linear-gradient(135deg, #1f1f1f 30%, #3b3b3b 100%); padding: 20px; border-radius: 15px; font-family: 'Ubuntu', sans-serif; color: #fff;">
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/?username=duanleedom&show_icons=true&title_color=080000&icon_color=080000&text_color=ff3b58&bg_color=f2eabc" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=duanleedom&=dark&count_private=true&bg_color=f2eabc&title_color=080000&text_color=ff3b58&icon_color=080000" alt="GitHub Streak" />
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXd6eGZidHY4d3E0OHQxajR3ZGtqOTNyYnE4Y2hhMndsZzJxajJneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XHAv3GveJMXMXSumkO/giphy.gif" width="200" height="250" style="margin-left: 20px;" />
+    <img src="https://github-readme-stats.vercel.app/api/?username=duanleedom&show_icons=true&title_color=#f7f7f7&icon_color=#00bfff&text_color=#b2b2b2&bg_color=#1f1f1f" alt="GitHub Stats" style="margin-bottom: 20px; border-radius: 10px;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=duanleedom&theme=dark&count_private=true&bg_color=#1f1f1f&title_color=#f7f7f7&text_color=#b2b2b2&icon_color=#00bfff" alt="GitHub Streak" style="margin-bottom: 20px; border-radius: 10px;"/>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXd6eGZidHY4d3E0OHQxajR3ZGtqOTNyYnE4Y2hhMndsZzJxajJneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XHAv3GveJMXMXSumkO/giphy.gif" width="200" height="250" style="margin-left: 20px; border-radius: 10px;" />
   </p>
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascripty/javascripty-original.svg" alt="Pascal" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pascal/pascal-original.svg" alt="Pascal" width="50" height="50"/>
     &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
     &nbsp;
@@ -19,9 +19,9 @@
   </p>
 
   <div align="center"> 
-    <a href="https://www.youtube.com/@DuanLeeDom" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/duan_lee_dom/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.twitch.tv/duan_lee_dom" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+    <a href="https://www.youtube.com/@DuanLeeDom" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" style="margin-right: 10px;"></a>
+    <a href="https://www.instagram.com/duan_lee_dom/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" style="margin-right: 10px;"></a>
+    <a href="https://www.twitch.tv/duan_lee_dom" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank" style="margin-right: 10px;"></a>
     <a href="https://www.linkedin.com/in/duan-lee-dom-a49a07294" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
