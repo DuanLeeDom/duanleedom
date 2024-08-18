@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="200" height="200" />
+<p aligh="Center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="200" height="200" />
+</p>
           
 <p align="Center">
   <img src="https://github-readme-stats.vercel.app/api/?username=duanleedom&show_icons=true&title_color=080000&icon_color=080000&text_color=ff3b58&bg_color=f2eabc" alt="GitHub Stats" />
