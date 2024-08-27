@@ -10,7 +10,7 @@
 
   <p align="center">
     <!-- Referência ao novo ícone Pascal -->
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3Dalefragnani.pascal&psig=AOvVaw31THrt0KOCdM8LoUxVAuyH&ust=1724887707300000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjFtMyplogDFQAAAAAdAAAAABAJ" alt="Pascal" width="50" height="50"/>
+    <img src="imageslogo-pascal.png" alt="Pascal" width="50" height="50"/>
     &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
     &nbsp;
