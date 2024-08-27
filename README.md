@@ -18,7 +18,7 @@
     &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
     &nbsp;
-    <img src="https://github.com/user-attachments/assets/5545c110-ea59-45a4-955c-975e4c76a7d2" alt="Excel" width="50" height="50"/>
+    <img src="https://github.com/user-attachments/assets/f36071ca-2cdd-4b59-a72b-7fa3b92fd92c" alt="Excel" width="50" height="50"/>
   </p>
 
   <div align="center"> 
