@@ -10,7 +10,7 @@
 
   <p align="center">
     <!-- Referência ao novo ícone Pascal -->
-    <img src="imageslogo-pascal.png" alt="Pascal" width="50" height="50"/>
+    <img src="[Descrição da Imagem](caminho/para/imagem.extensao)" alt="Pascal" width="50" height="50"/>
     &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
     &nbsp;
