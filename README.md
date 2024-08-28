@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div style="background: linear-gradient(135deg, #1f1f1f 30%, #3b3b3b 100%); padding: 20px; border-radius: 15px; font-family: 'Ubuntu', sans-serif; color: #fff;">
   
   <p align="center">
