@@ -7,14 +7,11 @@
   </p>
 
   <p align="center">
-    <!-- Referência ao novo ícone Pascal -->
     <img src="https://github.com/user-attachments/assets/ca4891de-4606-4d8c-a185-2d5c049cfd2b" alt="Pascal" width="50" height="50"/>
     &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
     &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
-    &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
     &nbsp;
     <img src="https://github.com/user-attachments/assets/f36071ca-2cdd-4b59-a72b-7fa3b92fd92c" alt="Excel" width="50" height="50"/>
   </p>
