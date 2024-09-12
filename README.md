@@ -3,10 +3,10 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/?username=duanleedom&show_icons=true&title_color=#f7f7f7&icon_color=#00bfff&text_color=#b2b2b2&bg_color=#1f1f1f" alt="GitHub Stats" style="margin-bottom: 20px; border-radius: 10px;"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=duanleedom&theme=dark&count_private=true&bg_color=#1f1f1f&title_color=#f7f7f7&text_color=#b2b2b2&icon_color=#00bfff" alt="GitHub Streak" style="margin-bottom: 20px; border-radius: 10px;"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuanLeeDom&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
+<br />
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXd6eGZidHY4d3E0OHQxajR3ZGtqOTNyYnE4Y2hhMndsZzJxajJneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XHAv3GveJMXMXSumkO/giphy.gif" width="200" height="250" style="margin-left: 20px; border-radius: 10px;" />
   </p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuanLeeDom&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
-<br />
 
   <p align="center">
     <img src="https://github.com/user-attachments/assets/ca4891de-4606-4d8c-a185-2d5c049cfd2b" alt="Pascal" width="50" height="50"/>
