@@ -1,7 +1,7 @@
 <div style="background: linear-gradient(135deg, #1f1f1f 30%, #3b3b3b 100%); padding: 20px; border-radius: 15px; font-family: 'Ubuntu', sans-serif; color: #fff;">
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/?username=duanleedom&show_icons=true&title_color=#f7f7f7&icon_color=#00bfff&text_color=#b2b2b2&bg_color=#1f1f1f" alt="GitHub Stats" style="margin-bottom: 20px; border-radius: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/?username=duanleedom&theme=dark&count_private=true&bg_color=#1f1f1f&title_color=#f7f7f7&text_color=#b2b2b2&icon_color=#00bfff" alt="GitHub Stats" style="margin-bottom: 20px; border-radius: 10px;"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=duanleedom&theme=dark&count_private=true&bg_color=#1f1f1f&title_color=#f7f7f7&text_color=#b2b2b2&icon_color=#00bfff" alt="GitHub Streak" style="margin-bottom: 20px; border-radius: 10px;"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuanLeeDom&theme=dark&count_private=true&bg_color=#1f1f1f&title_color=#f7f7f7&text_color=#b2b2b2&icon_color=#00bfff"/>
 <br />
