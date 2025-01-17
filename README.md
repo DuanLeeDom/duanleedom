@@ -45,12 +45,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJ6dDlzMzlteHdzcXl6YmhwM241MDRwNnNhendpamFscmVnMWJweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif"  />
-
-###
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=duanleedom&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
