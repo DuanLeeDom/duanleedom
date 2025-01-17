@@ -1,7 +1,4 @@
-<h2 align="left">🐾 Olá, tudo bem? 👋</h2>
-
-###
-
+  <h2 align="left">🐾 Olá, tudo bem? 👋</h2>
 <br clear="both">
 
 <p align="left">Meu nome é Duan e sou um desenvolvedor de software apaixonado por tecnologia e aprendizado constante.  <br><br>Aqui no meu GitHub, você vai encontrar projetos nos quais estou trabalhando, ideias experimentais e contribuições para a comunidade. Adoro resolver problemas, automatizar tarefas e criar soluções úteis (e, quem sabe, divertidas 🐈).  <br><br>Sinta-se à vontade para explorar, deixar uma estrela ⭐, ou entrar em contato! Vamos construir algo incrível juntos!  <br><br>🐾 - "A curiosidade é o primeiro passo para a criação."</p>
