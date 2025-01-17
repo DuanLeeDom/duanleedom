@@ -1,28 +1,78 @@
-<div style="background: linear-gradient(135deg, #1f1f1f 30%, #3b3b3b 100%); padding: 20px; border-radius: 15px; font-family: 'Ubuntu', sans-serif; color: #fff;">
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/?username=duanleedom&theme=dark&count_private=true&bg_color=#1f1f1f&title_color=#f7f7f7&text_color=#b2b2b2&icon_color=#00bfff" alt="GitHub Stats" style="margin-bottom: 20px; border-radius: 10px;"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=duanleedom&theme=dark&count_private=true&bg_color=#1f1f1f&title_color=#f7f7f7&text_color=#b2b2b2&icon_color=#00bfff" alt="GitHub Streak" style="margin-bottom: 20px; border-radius: 10px;"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuanLeeDom&theme=dark&count_private=true&bg_color=#1f1f1f&title_color=#f7f7f7&text_color=#b2b2b2&icon_color=#00bfff"/>
-<br />
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXd6eGZidHY4d3E0OHQxajR3ZGtqOTNyYnE4Y2hhMndsZzJxajJneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XHAv3GveJMXMXSumkO/giphy.gif" width="200" height="250" style="margin-left: 20px; border-radius: 10px;" />
-  </p>
+<h2 align="left">🐾 Olá, tudo bem? 👋</h2>
 
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/ca4891de-4606-4d8c-a185-2d5c049cfd2b" alt="Pascal" width="50" height="50"/>
-    &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-    &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
-    &nbsp;
-    <img src="https://github.com/user-attachments/assets/f36071ca-2cdd-4b59-a72b-7fa3b92fd92c" alt="Excel" width="50" height="50"/>
-  </p>
+###
 
-  <div align="center"> 
-    <a href="https://www.youtube.com/@DuanLeeDom" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" style="margin-right: 10px;"></a>
-    <a href="https://www.instagram.com/duan_lee_dom/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" style="margin-right: 10px;"></a>
-    <a href="https://www.twitch.tv/duan_lee_dom" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank" style="margin-right: 10px;"></a>
-    <a href="https://www.linkedin.com/in/duan-lee-dom-a49a07294" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+<br clear="both">
 
+<p align="left">Meu nome é Duan e sou um desenvolvedor de software apaixonado por tecnologia e aprendizado constante.  <br><br>Aqui no meu GitHub, você vai encontrar projetos nos quais estou trabalhando, ideias experimentais e contribuições para a comunidade. Adoro resolver problemas, automatizar tarefas e criar soluções úteis (e, quem sabe, divertidas 🐈).  <br><br>Sinta-se à vontade para explorar, deixar uma estrela ⭐, ou entrar em contato! Vamos construir algo incrível juntos!  <br><br>🐾 - "A curiosidade é o primeiro passo para a criação."</p>
+
+###
+
+<div align="left">
+  <img src="https://profile-counter.glitch.me/duanleedom/count.svg?"  />
 </div>
+
+###
+
+<div align="left">
+  <a href="https://www.youtube.com/@leetechcode" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img align="left" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJ6dDlzMzlteHdzcXl6YmhwM241MDRwNnNhendpamFscmVnMWJweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=duanleedom&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duanleedom&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=duanleedom&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=duanleedom&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=duanleedom&theme=apprentice&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/duanleedom/duanleedom/output/snake.svg" alt="Snake animation" />
+
+###
