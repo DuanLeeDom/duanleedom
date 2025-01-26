@@ -1,22 +1,6 @@
-<div>
-    <a target='_blank' href="https://www.twitch.tv/duan_lee_dom">
-        <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-    </a>
-    <a target='_blank' href="https://x.com/duanleedom">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-    </a>
-    <a target='_blank' href="https://instagram.com/duan_lee_dom">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    <a target='_blank' href="https://linkedin.com/in/duanleedom">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a target='_blank' href="https://www.youtube.com/@leetechcode">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-    </a>
-</div>
-
-## Olá, seja bem-vindo(a)!
+<h1 align="center">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Proggy&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!" />
+</h1>
 
 Não sei exatamente como você chegou até aqui, mas fico feliz em compartilhar um pouco sobre mim com você. ;)
 
@@ -49,16 +33,98 @@ Minha paixão pela tecnologia me levou a estudar ferramentas como **MySQL**, **E
 ## Linguagens Familiarizadas
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img src="https://github.com/user-attachments/assets/ca4891de-4606-4d8c-a185-2d5c049cfd2b" height="40" alt="pascal logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
 </div>
 
-###
+## Minhas Redes Sociais
 
-![snake gif](https://github.com/DuanLeeDom/duanleedom/blob/output/github-snake.svg)
+<div>
+    <a target='_blank' href="https://www.twitch.tv/duan_lee_dom">
+        <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+    </a>
+    <a target='_blank' href="https://x.com/duanleedom">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    </a>
+    <a target='_blank' href="https://instagram.com/duan_lee_dom">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a target='_blank' href="https://linkedin.com/in/duanleedom">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a target='_blank' href="https://www.youtube.com/@leetechcode">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    </a>
+</div>
+
+<div align="center">
+  <h2>🐍 Minhas Contribuições 🐍</h2>
+  <br>
+  <img alt="cobra comendo minhas contribuições" src="https://github.com/DuanLeeDom/duanleedom/blob/output/github-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<h2 align="center">⚡ Minhas Estatísticas ⚡</h2>
+<br>
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img 
+      width="300" 
+      src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=duanleedom&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
+      alt="Linguagens mais usadas" 
+    />
+    <img 
+      width="300" 
+      src="https://github-readme-stats-salesp07.vercel.app/api?username=duanleedom&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
+      alt="Estatísticas gerais do GitHub" 
+    />
+    <img 
+      width="300" 
+      src="https://github-readme-streak-stats-salesp07.vercel.app/?user=duanleedom&count_private=true&theme=react&border_radius=10" 
+      alt="Estatísticas de sequência de commits" 
+    />
+  </div>
+</div>
+
+##
+
+<br>
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img 
+      width="150" 
+      src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxmbDNlcGJjYmp2aTc5dDcwc2Z0OTRpNjF4aHl2azZzYjFiYWdzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"  
+    />
+    <img 
+      width="150" 
+      src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxmbDNlcGJjYmp2aTc5dDcwc2Z0OTRpNjF4aHl2azZzYjFiYWdzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"  
+    />
+    <img 
+      width="150" 
+      src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxmbDNlcGJjYmp2aTc5dDcwc2Z0OTRpNjF4aHl2azZzYjFiYWdzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"  
+    />
+    <img 
+      width="150" 
+      src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxmbDNlcGJjYmp2aTc5dDcwc2Z0OTRpNjF4aHl2azZzYjFiYWdzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"  
+    />
+    <img 
+      width="150" 
+      src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxmbDNlcGJjYmp2aTc5dDcwc2Z0OTRpNjF4aHl2azZzYjFiYWdzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"  
+    />
+    <img 
+      width="150" 
+      src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxmbDNlcGJjYmp2aTc5dDcwc2Z0OTRpNjF4aHl2azZzYjFiYWdzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"  
+    />
+  </div>
+</div>
+
+<br/><br/>
