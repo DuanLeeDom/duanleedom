@@ -59,5 +59,6 @@ Minha paixão pela tecnologia me levou a estudar ferramentas como **MySQL**, **E
   <img width="12" />
 </div>
 
-
 ###
+
+![snake gif](https://github.com/DuanLeeDom/duanleedom/blob/output/github-snake-dark.svg)
