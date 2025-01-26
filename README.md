@@ -78,43 +78,19 @@ Minha paixão pela tecnologia me levou a estudar ferramentas como **MySQL**, **E
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <img 
-      width="200" 
+      width="300" 
       src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=duanleedom&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
       alt="Linguagens mais usadas" 
     />
     <img 
-      width="200" 
+      width="445" 
       src="https://github-readme-stats-salesp07.vercel.app/api?username=duanleedom&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
       alt="Estatísticas gerais do GitHub" 
     />
     <img 
-      width="200" 
+      width="445" 
       src="https://github-readme-streak-stats-salesp07.vercel.app/?user=duanleedom&count_private=true&theme=react&border_radius=10" 
       alt="Estatísticas de sequência de commits" 
-    />
-  </div>
-</div>
-
-##
-
-<br>
-<div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img 
-      width="150" 
-      src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxmbDNlcGJjYmp2aTc5dDcwc2Z0OTRpNjF4aHl2azZzYjFiYWdzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"  
-    />
-    <img 
-      width="150" 
-      src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxmbDNlcGJjYmp2aTc5dDcwc2Z0OTRpNjF4aHl2azZzYjFiYWdzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"  
-    />
-    <img 
-      width="150" 
-      src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxmbDNlcGJjYmp2aTc5dDcwc2Z0OTRpNjF4aHl2azZzYjFiYWdzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"  
-    />
-    <img 
-      width="150" 
-      src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxmbDNlcGJjYmp2aTc5dDcwc2Z0OTRpNjF4aHl2azZzYjFiYWdzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"  
     />
   </div>
 </div>
