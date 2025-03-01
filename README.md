@@ -69,7 +69,6 @@ Minha paixão pela tecnologia me levou a estudar ferramentas como **MySQL**, **E
   <h2>🐍 Minhas Contribuições 🐍</h2>
   <br>
   <img alt="cobra comendo minhas contribuições" src="https://github.com/DuanLeeDom/duanleedom/blob/output/github-snake.svg" />
-  
   <br/><br/><br/>
 </div>
 
