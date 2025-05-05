@@ -15,7 +15,7 @@ Minha paixão pela tecnologia me levou a estudar ferramentas como **MySQL**, **E
 ## Informações detalhadas
 
 * **Nome**: Duan Lee Dom da Silva  
-* **Idade**: <!-- AGE -->  
+* **Idade**: 19  
 * **Residência**: Bragança Paulista - SP, Brasil  
 * **Tecnologias**: Pascal - Python - MySQL - Excel - Front end e Back end  
 * **Estudando**: Desenvolvimento de software, algoritmos e design  
