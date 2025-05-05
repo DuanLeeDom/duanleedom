@@ -1,12 +1,12 @@
 <h1 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Proggy&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Proggy&size=35¢er=true&vCenter=true&width=500&height=70&duration=4000&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!" />
 </h1>
 
 Não sei exatamente como você chegou até aqui, mas fico feliz em compartilhar um pouco sobre mim com você. ;)
 
 ## Informações públicas
 
-Meu nome é Duan Lee Dom da Silva, também conhecido como Duan. Sou um jovem de 19 anos, cheio de paixão por tecnologia e criatividade. Sou um profissional multifacetado, com habilidades em edição de vídeos, produção musical, design gráfico e programação. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** na [FATEC](https://www.cps.sp.gov.br/fatecs/fatec-braganca-paulista-jornalista-omair-fagundes-de-oliveira/), onde aprimoro meus conhecimentos em desenvolvimento de software, algoritmos e linguagens de programação como Pascal e Python.
+Meu nome é Duan Lee Dom da Silva, também conhecido como Duan. Sou um jovem de <!-- AGE --> anos, cheio de paixão por tecnologia e criatividade. Sou um profissional multifacetado, com habilidades em edição de vídeos, produção musical, design gráfico e programação. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** na [FATEC](https://www.cps.sp.gov.br/fatecs/fatec-braganca-paulista-jornalista-omair-fagundes-de-oliveira/), onde aprimoro meus conhecimentos em desenvolvimento de software, algoritmos e linguagens de programação como Pascal e Python.
 
 Desde 2018, venho explorando a criação de conteúdo na internet, unindo criatividade e habilidades técnicas para produzir vídeos impactantes e músicas originais. Além disso, tive a oportunidade de trabalhar como trainee na [STS Software](https://stsinfo.com.br/), onde aprofundei meu entendimento sobre o ambiente de desenvolvimento de software e fortaleci minhas habilidades em programação e bancos de dados.
 
@@ -15,7 +15,7 @@ Minha paixão pela tecnologia me levou a estudar ferramentas como **MySQL**, **E
 ## Informações detalhadas
 
 * **Nome**: Duan Lee Dom da Silva  
-* **Idade**: 19  
+* **Idade**: <!-- AGE -->  
 * **Residência**: Bragança Paulista - SP, Brasil  
 * **Tecnologias**: Pascal - Python - MySQL - Excel - Front end e Back end  
 * **Estudando**: Desenvolvimento de software, algoritmos e design  
