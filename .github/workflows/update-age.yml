@@ -30,10 +30,15 @@ jobs:
           if (monthDiff < 0 || (monthDiff === 0 && today.getDate() < birthDate.getDate())) {
             age--;
           }
-          require('fs').writeFileSync('README.md', 
-            require('fs').readFileSync('README.md', 'utf-8')
-              .replace(/<!-- AGE -->/, age)
-          );
+          const fs = require('fs');
+          let content = fs.readFileSync('README.md', 'utf-8');
+          const updatedContent = content.replace(/<!-- AGE -->/g, age);
+          if (content !== updatedContent) {
+            fs.writeFileSync('README.md', updatedContent);
+            console.log('README updated with age:', age);
+          } else {
+            console.log('No changes needed');
+          }
           "
 
       - name: Commit changes
