@@ -32,17 +32,12 @@ Minha paixão pela tecnologia me levou a estudar ferramentas como **MySQL**, **E
 
 ## Linguagens Familiarizadas
 
-<div align="left">
-  <img src="https://github.com/user-attachments/assets/ca4891de-4606-4d8c-a185-2d5c049cfd2b" height="40" alt="pascal logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
+<div style="display: flex; align-items: center; gap: 12px;">
+  <img src="https://github.com/user-attachments/assets/ca4891de-4606-4d8c-a185-2d5c049cfd2b" width="40" height="40" style="object-fit: contain;" alt="pascal logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="object-fit: contain;" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="object-fit: contain;" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" style="object-fit: contain;" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="object-fit: contain;" alt="python logo" />
 </div>
 
 ## Minhas Redes Sociais
