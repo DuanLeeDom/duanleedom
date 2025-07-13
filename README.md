@@ -30,6 +30,32 @@ Minha paixão pela tecnologia me levou a estudar ferramentas como **MySQL**, **E
 * Gosto de unir minha paixão pela tecnologia com habilidades criativas, como design gráfico e storytelling, para entregar projetos inovadores e impactantes;  
 * Estou sempre em busca de aprender algo novo, seja sobre programação, música ou edição, pois acredito que o aprendizado é a chave para a evolução pessoal e profissional.  
 
+<h2 align="center">Minhas Redes Sociais</h2>
+
+<div align="center">
+    <a target='_blank' href="https://linkedin.com/in/duanleedom">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a target='_blank' href="https://www.facebook.com/duanleedom">
+        <img src="https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white">
+    </a>
+    <a target='_blank' href="https://instagram.com/duan_lee_dom">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a target='_blank' href="https://x.com/duanleedom">
+        <img src="https://img.shields.io/badge/X / Twitter-181818?style=for-the-badge&logo=x&logoColor=white">
+    </a>
+    <a target='_blank' href="https://www.youtube.com/@leetechcode">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    </a>
+    <a target='_blank' href="https://www.twitch.tv/duan_lee_dom">
+        <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+    </a>
+    <a target='_blank' href="https://soundcloud.com/duan-lee-dom">
+        <img src="https://img.shields.io/badge/SoundCloud-FF7200?style=for-the-badge&logo=soundcloud&logoColor=white">
+    </a>
+</div>
+
 <h2 align="center">🖥️ Linguagens Familiarizadas</h2>
 
 <table align="center"">
@@ -173,32 +199,6 @@ Minha paixão pela tecnologia me levou a estudar ferramentas como **MySQL**, **E
   </td>
 </tr>
 </table>
-
-<h2 align="center">Minhas Redes Sociais</h2>
-
-<div align="center">
-    <a target='_blank' href="https://linkedin.com/in/duanleedom">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a target='_blank' href="https://www.facebook.com/duanleedom">
-        <img src="https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white">
-    </a>
-    <a target='_blank' href="https://instagram.com/duan_lee_dom">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    <a target='_blank' href="https://x.com/duanleedom">
-        <img src="https://img.shields.io/badge/X / Twitter-181818?style=for-the-badge&logo=x&logoColor=white">
-    </a>
-    <a target='_blank' href="https://www.youtube.com/@leetechcode">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-    </a>
-    <a target='_blank' href="https://www.twitch.tv/duan_lee_dom">
-        <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-    </a>
-    <a target='_blank' href="https://soundcloud.com/duan-lee-dom">
-        <img src="https://img.shields.io/badge/SoundCloud-FF7200?style=for-the-badge&logo=soundcloud&logoColor=white">
-    </a>
-</div>
 
 <div align="center">
   <h2>🐍 Minhas Contribuições 🐍</h2>
