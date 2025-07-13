@@ -1,5 +1,5 @@
 <h1 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=10000&color=49FF68&center=true&vCenter=true&width=400&lines=Sej%C3%A1+bem-vindo(a)!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=10000&color=49FF68&center=true&vCenter=true&width=400&lines=Sej%C3%A1+bem-vindo(a)!" />
 </h1>
 
 ## Informações públicas
