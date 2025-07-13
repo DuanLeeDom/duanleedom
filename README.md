@@ -1,8 +1,6 @@
 <h1 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Proggy&size=35¢er=true&vCenter=true&width=500&height=70&duration=8000&lines=Ol%C3%A1%2C+seja+bem-vindo(a)" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=10000&color=49FF68&center=true&vCenter=true&width=400&lines=Sej%C3%A1+bem-vindo(a)!" />
 </h1>
-
-<p align="center">Não sei exatamente como você chegou até aqui, mas fico feliz em compartilhar um pouco sobre mim com você. ;)</p>
 
 ## Informações públicas
 
