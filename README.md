@@ -123,6 +123,11 @@ Minha paixão pela tecnologia me levou a estudar ferramentas como **MySQL**, **E
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" width="48" alt="HeidiSQL logo" /><br/><br/>
     <b>HeidiSQL</b>
   </td>
+  <td align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/2048px-DBeaver_logo.svg.png" width="48" alt="DBeaver logo" /><br/><br/>
+    <b>DBeaver</b>
+  </td>
+        
 </tr>
 </table>
 
