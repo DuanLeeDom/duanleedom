@@ -81,11 +81,11 @@ Minha paixão pela tecnologia me levou a estudar ferramentas como **MySQL**, **E
       <b>Python</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="48" alt="HTML5" /><br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" alt="HTML5" /><br/><br/>
       <b>HTML5</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="48" alt="CSS3" /><br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" alt="CSS3" /><br/><br/>
       <b>CSS3</b>
     </td>
     <td align="center">
