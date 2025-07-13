@@ -131,7 +131,7 @@ Minha paixão pela tecnologia me levou a estudar ferramentas como **MySQL**, **E
 </tr>
 </table>
 
-## 🎞️ Edição de Vídeo, Imagem e Música
+## 🎞️ Edição de Vídeo, Imagem e Música Familiarizados
 
 <table>
 <tr>
