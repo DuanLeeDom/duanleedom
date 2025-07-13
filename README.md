@@ -1,8 +1,8 @@
 <h1 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Proggy&size=35¢er=true&vCenter=true&width=500&height=70&duration=4000&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Proggy&size=35¢er=true&vCenter=true&width=500&height=70&duration=8000&lines=Ol%C3%A1%2C+seja+bem-vindo(a)" />
 </h1>
 
-Não sei exatamente como você chegou até aqui, mas fico feliz em compartilhar um pouco sobre mim com você. ;)
+<p align="center">Não sei exatamente como você chegou até aqui, mas fico feliz em compartilhar um pouco sobre mim com você. ;)</p>
 
 ## Informações públicas
 
@@ -30,9 +30,9 @@ Minha paixão pela tecnologia me levou a estudar ferramentas como **MySQL**, **E
 * Gosto de unir minha paixão pela tecnologia com habilidades criativas, como design gráfico e storytelling, para entregar projetos inovadores e impactantes;  
 * Estou sempre em busca de aprender algo novo, seja sobre programação, música ou edição, pois acredito que o aprendizado é a chave para a evolução pessoal e profissional.  
 
-## 🖥️ Linguagens Familiarizadas
+<h2 align="center">🖥️ Linguagens Familiarizadas</h2>
 
-<table>
+<table align="center"">
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/ca4891de-4606-4d8c-a185-2d5c049cfd2b" width="48" alt="Pascal" /><br/><br/>
@@ -73,9 +73,9 @@ Minha paixão pela tecnologia me levou a estudar ferramentas como **MySQL**, **E
   </tr>
 </table>
 
-## 🛠️ Ferramentas Familiarizadas
+<h2 align="center">🛠️ Ferramentas Familiarizadas</h2>
 
-<table>
+<table align="center">
 <tr>
   <td align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" alt="VScode logo" /><br/><br/>
@@ -100,9 +100,9 @@ Minha paixão pela tecnologia me levou a estudar ferramentas como **MySQL**, **E
 </tr>
 </table>
 
-## 💻 Sistemas Operacionais Familiarizados
+<h2 align="center">💻 Sistemas Operacionais Familiarizados</h2>
 
-<table>
+<table align="center">
 <tr>
   <td align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cropped-Windows10-icon.png/640px-Cropped-Windows10-icon.png" width="48" alt="Windows" /><br/><br/>
@@ -131,9 +131,9 @@ Minha paixão pela tecnologia me levou a estudar ferramentas como **MySQL**, **E
 </tr>
 </table>
 
-## 🎞️ Edição de Vídeo, Imagem e Música Familiarizados
+<h2 align="center">🎞️ Edição de Vídeo, Imagem e Música Familiarizados</h2>
 
-<table>
+<table align="center">
 <tr>
   <td align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" width="48" alt="DaVinci Resolve" /><br/><br/>
@@ -174,24 +174,29 @@ Minha paixão pela tecnologia me levou a estudar ferramentas como **MySQL**, **E
 </tr>
 </table>
 
+<h2 align="center">Minhas Redes Sociais</h2>
 
-## Minhas Redes Sociais
-
-<div>
-    <a target='_blank' href="https://www.twitch.tv/duan_lee_dom">
-        <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+<div align="center">
+    <a target='_blank' href="https://linkedin.com/in/duanleedom">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a target='_blank' href="https://x.com/duanleedom">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    <a target='_blank' href="https://www.facebook.com/duanleedom">
+        <img src="https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white">
     </a>
     <a target='_blank' href="https://instagram.com/duan_lee_dom">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a target='_blank' href="https://linkedin.com/in/duanleedom">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <a target='_blank' href="https://x.com/duanleedom">
+        <img src="https://img.shields.io/badge/X / Twitter-181818?style=for-the-badge&logo=x&logoColor=white">
     </a>
     <a target='_blank' href="https://www.youtube.com/@leetechcode">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    </a>
+    <a target='_blank' href="https://www.twitch.tv/duan_lee_dom">
+        <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+    </a>
+    <a target='_blank' href="https://soundcloud.com/duan-lee-dom">
+        <img src="https://img.shields.io/badge/SoundCloud-FF7200?style=for-the-badge&logo=soundcloud&logoColor=white">
     </a>
 </div>
 
