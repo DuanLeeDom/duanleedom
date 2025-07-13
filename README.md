@@ -30,141 +30,150 @@ Minha paixão pela tecnologia me levou a estudar ferramentas como **MySQL**, **E
 * Gosto de unir minha paixão pela tecnologia com habilidades criativas, como design gráfico e storytelling, para entregar projetos inovadores e impactantes;  
 * Estou sempre em busca de aprender algo novo, seja sobre programação, música ou edição, pois acredito que o aprendizado é a chave para a evolução pessoal e profissional.  
 
-## Linguagens Familiarizadas
+## 🖥️ Linguagens Familiarizadas
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/ca4891de-4606-4d8c-a185-2d5c049cfd2b" width="40" alt="Pascal" /><br/>
-      <sub>Pascal</sub>
+      <img src="https://github.com/user-attachments/assets/ca4891de-4606-4d8c-a185-2d5c049cfd2b" width="48" alt="Pascal" /><br/><br/>
+      <b>Pascal</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" /><br/>
-      <sub>Java</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" alt="Java" /><br/><br/>
+      <b>Java</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" /><br/>
-      <sub>PHP</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" alt="PHP" /><br/><br/>
+      <b>PHP</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /><br/>
-      <sub>JavaScript</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" alt="JavaScript" /><br/><br/>
+      <b>JavaScript</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" /><br/>
-      <sub>Python</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python" /><br/><br/>
+      <b>Python</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5" /><br/>
-      <sub>HTML5</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="48" alt="HTML5" /><br/><br/>
+      <b>HTML5</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS3" /><br/>
-      <sub>CSS3</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="48" alt="CSS3" /><br/><br/>
+      <b>CSS3</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" /><br/>
-      <sub>MySQL</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" alt="MySQL" /><br/><br/>
+      <b>MySQL</b>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40" alt="MariaDB" /><br/>
-      <sub>MariaDB</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="48" alt="MariaDB" /><br/><br/>
+      <b>MariaDB</b>
     </td>
   </tr>
 </table>
 
-## Ferramentas Familiarizadas
+## 🛠️ Ferramentas Familiarizadas
 
 <table>
 <tr>
   <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="Vscode logo" /><br/>
-      <sub>VScode</sub>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" alt="VScode logo" /><br/><br/>
+    <b>VS Code</b>
   </td>
   <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" alt="visual studio logo" /><br/>
-      <sub>Visual Studio</sub>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" alt="Visual Studio" /><br/><br/>
+    <b>Visual Studio</b>
   </td>
   <td align="center">
-      <img src="https://d2ohlsp9gwqc7h.cloudfront.net/images/logos/delphi-logo-128.webp" width="40" alt="delphi logo" /><br/>
-      <sub>Delphi</sub>
+    <img src="https://d2ohlsp9gwqc7h.cloudfront.net/images/logos/delphi-logo-128.webp" width="48" alt="Delphi logo" /><br/><br/>
+    <b>Delphi</b>
   </td>
   <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Lazarus_Logo_%28new%29.png" width="40" alt="lazarus logo" /><br/>
-      <sub>Lazarus</sub>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Lazarus_Logo_%28new%29.png" width="48" alt="Lazarus logo" /><br/><br/>
+    <b>Lazarus</b>
   </td>
   <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" width="40" alt="HeidiSQL logo" /><br/>
-      <sub>HeidiSQL</sub>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" width="48" alt="HeidiSQL logo" /><br/><br/>
+    <b>HeidiSQL</b>
   </td>
 </tr>
 </table>
 
-## Sistemas Operacionais Familiarizadas
+## 💻 Sistemas Operacionais Familiarizados
 
 <table>
 <tr>
   <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cropped-Windows10-icon.png/640px-Cropped-Windows10-icon.png" width="40" alt="Windows" /><br/>
-      <sub>Windows</sub>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cropped-Windows10-icon.png/640px-Cropped-Windows10-icon.png" width="48" alt="Windows" /><br/><br/>
+    <b>Windows</b>
   </td>
   <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Finder_Icon_macOS_Big_Sur.png/960px-Finder_Icon_macOS_Big_Sur.png" width="40" alt="macOS logo" /><br/>
-      <sub>macOS</sub>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Finder_Icon_macOS_Big_Sur.png/960px-Finder_Icon_macOS_Big_Sur.png" width="48" alt="macOS" /><br/><br/>
+    <b>macOS</b>
   </td>
   <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ubuntu-logo-no-wordmark-solid-o-2022.svg/640px-Ubuntu-logo-no-wordmark-solid-o-2022.svg.png" width="40" alt="Ubuntu" /><br/>
-      <sub>Ubuntu</sub>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ubuntu-logo-no-wordmark-solid-o-2022.svg/640px-Ubuntu-logo-no-wordmark-solid-o-2022.svg.png" width="48" alt="Ubuntu" /><br/><br/>
+    <b>Ubuntu</b>
   </td>
   <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="40" alt="Arch" /><br/>
-      <sub>Arch</sub>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="48" alt="Arch" /><br/><br/>
+    <b>Arch</b>
   </td>
   <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Pop%21_OS_Icon.svg" width="40" alt="Pop_0S" /><br/>
-      <sub>Pop!_0S</sub>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Pop%21_OS_Icon.svg" width="48" alt="Pop_OS" /><br/><br/>
+    <b>Pop!_OS</b>
   </td>
   <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cib-proxmox_%28CoreUI_Icons_v1.0.0%29.svg/2048px-Cib-proxmox_%28CoreUI_Icons_v1.0.0%29.svg.png" width="40" alt="Proxmox" /><br/>
-      <sub>Proxmox</sub>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cib-proxmox_%28CoreUI_Icons_v1.0.0%29.svg/2048px-Cib-proxmox_%28CoreUI_Icons_v1.0.0%29.svg.png" width="48" alt="Proxmox" /><br/><br/>
+    <b>Proxmox</b>
   </td>
 </tr>
 </table>
 
-## Edição de Vídeo, Imagem e Música
+## 🎞️ Edição de Vídeo, Imagem e Música
 
 <table>
 <tr>
   <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" width="40" alt="DaVinci Resolve" /><br/>
-      <sub>DaVinci Resolve</sub>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" width="48" alt="DaVinci Resolve" /><br/><br/>
+    <b>DaVinci Resolve</b>
   </td>
   <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png" width="40" alt="Premiere Pro" /><br/>
-      <sub>Premiere Pro</sub>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png" width="48" alt="Premiere Pro" /><br/><br/>
+    <b>Premiere Pro</b>
   </td>
   <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Vegas_Pro_21_logo.svg/2048px-Vegas_Pro_21_logo.svg.png" width="40" alt="Vegas" /><br/>
-      <sub>Vegas</sub>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Vegas_Pro_21_logo.svg/2048px-Vegas_Pro_21_logo.svg.png" width="48" alt="Vegas" /><br/><br/>
+    <b>Vegas</b>
   </td>
   <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" width="40" alt="Blender_logo" /><br/>
-      <sub>Blender</sub>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" width="48" alt="Blender" /><br/><br/>
+    <b>Blender</b>
   </td>
   <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" width="40" alt="Photoshop" /><br/>
-      <sub>Photoshop</sub>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" width="48" alt="Photoshop" /><br/><br/>
+    <b>Photoshop</b>
   </td>
   <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/2048px-The_GIMP_icon_-_gnome.svg.png" width="40" alt="GIMP" /><br/>
-      <sub>GIMP</sub>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/2048px-The_GIMP_icon_-_gnome.svg.png" width="48" alt="GIMP" /><br/><br/>
+    <b>GIMP</b>
   </td>
   <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Inkscape_logo_%282-colour%29.svg/2048px-Inkscape_logo_%282-colour%29.svg.png" width="40" alt="Inkscape" /><br/>
-      <sub>Inkscape</sub>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Inkscape_logo_%282-colour%29.svg/2048px-Inkscape_logo_%282-colour%29.svg.png" width="48" alt="Inkscape" /><br/><br/>
+    <b>Inkscape</b>
+  </td>
+  <td align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/LMMS_logo_v1.2.2.png" width="48" alt="LMMS" /><br/><br/>
+    <b>LMMS</b>
+  </td>
+  <td align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/pt/7/7e/Fl_studio_logo.png" width="48" alt="FL Studio" /><br/><br/>
+    <b>FL Studio</b>
   </td>
 </tr>
 </table>
+
 
 ## Minhas Redes Sociais
 
