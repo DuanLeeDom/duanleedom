@@ -134,7 +134,7 @@ Minha paixão pela tecnologia me levou a estudar ferramentas como **MySQL**, **E
 <table align="center">
 <tr>
   <td align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cropped-Windows10-icon.png/640px-Cropped-Windows10-icon.png" width="48" alt="Windows" /><br/><br/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Windows_10x_Icon.png" width="48" alt="Windows" /><br/><br/>
     <b>Windows</b>
   </td>
   <td align="center">
@@ -142,7 +142,7 @@ Minha paixão pela tecnologia me levou a estudar ferramentas como **MySQL**, **E
     <b>macOS</b>
   </td>
   <td align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ubuntu-logo-no-wordmark-solid-o-2022.svg/640px-Ubuntu-logo-no-wordmark-solid-o-2022.svg.png" width="48" alt="Ubuntu" /><br/><br/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Ubuntu-logo-no-wordmark-solid-o-2022.svg" width="48" alt="Ubuntu" /><br/><br/>
     <b>Ubuntu</b>
   </td>
   <td align="center">
@@ -233,3 +233,4 @@ Minha paixão pela tecnologia me levou a estudar ferramentas como **MySQL**, **E
 </div>
 
 <br/><br/>
+
